@@ -7,9 +7,10 @@ Each folder corresponds to an independent project:
 
 | Folder | Description |
 |---------|--------------|
+| [`powerbi_dashboard/`](powerbi_dashboard) | Power BI dashboard for tracking key commercial KPIs (volume, distribution, discounts, etc.). |
 | [`forecasting_sales/`](forecasting_sales) | Ongoing |
 | [`client_segmentation/`](client_segmentation) | Ongoing |
-| [`powerbi_dashboard/`](powerbi_dashboard) | Power BI dashboard for tracking key commercial KPIs (volume, distribution, discounts, etc.). |
+
 
 ## ⚙️ Working Environment
 - **Languages**: Python, DAX  
