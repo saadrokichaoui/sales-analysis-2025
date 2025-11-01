@@ -20,7 +20,8 @@ Each folder corresponds to an independent project:
 Centralize and document all analyses related to sales performance, forecasting, and market segmentation.
 
 ## 👤 Author
-**Saad Roki Chaoui**  
-Sales Data Analyst Associate | PowerBI Specialist  
-📧 saad.chaoui.roki@gmail.com
+**[Saad Roki Chaoui]** – Sales Data Analyst Associate | PowerBI Specialist  
+🔗 [LinkedIn](https://www.linkedin.com/in/saad-roki-chaoui-24956315a/)  
+📧 saad.chaoui.roki@gmail.com  
+🌐 [Certifications](https://www.datacamp.com/certificate/DAA0010704791802)
 
