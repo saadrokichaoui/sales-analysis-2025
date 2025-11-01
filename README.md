@@ -18,7 +18,7 @@ It is divided into **three interactive sections**:
 ---
 
 ## 🧩 Data Sources
-- **Dataset:** Sales transaction data (simulated or anonymized)
+- **Dataset:** Sales transaction data (simulated)
 - **Columns include:**  
   - `Order ID`, `Product ID`, `Category`, `Segment`, `Country`,  
   - `Revenue`, `Quantity Sold`, `Discount`, `Customer ID`, `Date`
