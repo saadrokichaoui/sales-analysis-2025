@@ -4,7 +4,7 @@
 
 **Cluster interpretation**
 
-  *Cluster 0 – New Steady Clients*
+   *Cluster 0 – New Steady Clients*
 - Moderate sales and purchase frequency.
 - Low product diversity and short relationship (4 years).
 - Low discount rate, average payment delay (~32 days).
