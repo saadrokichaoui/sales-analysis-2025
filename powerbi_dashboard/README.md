@@ -77,13 +77,13 @@ It is divided into **three interactive sections**:
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.  
-2. Open it in **Power BI Desktop** (version 2023 or later).  
+2. Open it in **Power BI Desktop**.  
 3. Explore the dashboard by using the filters (Segment, Category, Country, Product).
 
 ---
 
 ## 👤 Author
-**[Saad Roki Chaoui]** – Sales Data Analyst  
+**[Saad Roki Chaoui]** – Sales Data Analyst Associate | PowerBI Specialist  
 🔗 [LinkedIn](https://www.linkedin.com/in/saad-roki-chaoui-24956315a/)  
 📧 [saad.chaoui.roki@gmail.com]  
 
