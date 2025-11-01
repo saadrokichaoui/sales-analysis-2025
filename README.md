@@ -23,5 +23,5 @@ Centralize and document all analyses related to sales performance, forecasting, 
 **[Saad Roki Chaoui]** – Sales Data Analyst Associate | PowerBI Specialist  
 🔗 [LinkedIn](https://www.linkedin.com/in/saad-roki-chaoui-24956315a/)  
 📧 saad.chaoui.roki@gmail.com  
-🌐 [Certifications](https://www.datacamp.com/certificate/DAA0010704791802)
-
+🌐 [Certificat: Data Analyst Associate](https://www.datacamp.com/certificate/DAA0010704791802) 
+🌐 [Certificat: Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/DWXSTVPCEX5S)
