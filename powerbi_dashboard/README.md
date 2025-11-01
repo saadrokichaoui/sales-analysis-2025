@@ -85,7 +85,7 @@ It is divided into **three interactive sections**:
 ## 👤 Author
 **[Saad Roki Chaoui]** – Sales Data Analyst Associate | PowerBI Specialist  
 🔗 [LinkedIn](https://www.linkedin.com/in/saad-roki-chaoui-24956315a/)  
-📧 saad.chaoui.roki@gmail.com
+📧 [Email](saad.chaoui.roki@gmail.com)
 
 ---
 
